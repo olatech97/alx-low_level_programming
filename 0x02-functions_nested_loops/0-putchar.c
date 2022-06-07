@@ -9,5 +9,7 @@
 
 int main(void)
 {
-	printf("_putchar\n");
+	char ch = "_putchar";
+	printf("character=%c'ch):
+		return 0;
 }
