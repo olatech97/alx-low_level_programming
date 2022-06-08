@@ -1,6 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_#
-
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 /*
  * file main.h
  * It contains the prototypes of Functions, nested loops
